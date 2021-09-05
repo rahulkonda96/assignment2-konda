@@ -10,3 +10,12 @@
 2. Initially we need to travel from the place where you live in Maryville to Kansas(MCI) airport by road.
 3. Catch a flight from Kansas to Fiumicino(city in Rome), journey is of about 15 hours.
 4. You can take a direct flight or you can have a single stop flights. The stops will be in Chicago or Philadelphia.
+
+### Things to be brought for maximum enjoyment
+* Camera-for capturing
+    * Music System
+* Food
+    * Ready to make food
+    * snacks for timepass
+* fruits
+* Dollers
