@@ -16,8 +16,6 @@
     * Music System
 * Food
     * Ready to make food
-    * snacks for timepass
+    * snacks
 * fruits
 * Dollers
-
-[My AboutMe Link](https://github.com/rahulkonda96/assignment2-konda#AboutMe)
