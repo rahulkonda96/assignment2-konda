@@ -5,7 +5,7 @@
  Being the capital city of Italy. It has the most beautiful monuments. It is known for its **architecture**. It has the most beautiful *historical* places belonging to the several ages. It is the origin for the **Roman civilization**.
 
  ---
-# HORIZONTAL RULE
+#### HORIZONTAL RULE
 1. Inorder to travel from Maryville to my favourite place Rome, we have to travel through roadways and then airways.
 2. Initially we need to travel from the place where you live in Maryville to Kansas(MCI) airport by road.
 3. Catch a flight from Kansas to Fiumicino(city in Rome), journey is of about 15 hours.
@@ -19,3 +19,6 @@
     * snacks
 * fruits
 * Dollers
+
+
+[My AboutMe Link](https://github.com/rahulkonda96/assignment2-konda#AboutMe)    
