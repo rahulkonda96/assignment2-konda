@@ -21,5 +21,5 @@
 * Dollers
 
 
-[My AboutMe Link]<https://github.com/rahulkonda96/assignment2-konda/blob/main/AboutMe.md>
+[My AboutMe Link](https://github.com/rahulkonda96/assignment2-konda/blob/main/AboutMe.md)
 
