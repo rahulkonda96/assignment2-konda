@@ -56,7 +56,7 @@ CODE FENCING FOR S NUMBER
 
     ```
         Basic Geometry 
-        https://cp-algorithms.com/geometry/basic-geometry.html
+        <https://cp-algorithms.com/geometry/basic-geometry.html>
     ```
     ```
         Finding the equation of a line for a segment
