@@ -55,8 +55,8 @@ CODE FENCING FOR S NUMBER
    ```
    *Elementary operations
 
-        *Basic Geometry<https://cp-algorithms.com/geometry/basic-geometry.html>
-        
+        Basic Geometry<https://cp-algorithms.com/geometry/basic-geometry.html>
+
         *Finding the equation of a line for a segment<https://cp-algorithms.com/geometry/segment-to-line.html>
         *Intersection Point of Lines<https://cp-algorithms.com/geometry/lines-intersection.html>
         *Check if two segments intersect<https://cp-algorithms.com/geometry/check-segments-intersection.html>
