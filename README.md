@@ -38,3 +38,14 @@ The below table contains the items which I'd love the most eating them and recom
 >“Anyone can deal with victory. Only the mighty can bear defeat.” -- *Adolf Hitler*
 
 >"Someone's sitting in the shade today because someone planted a tree a long time ago." -- *Warren Buffett*
+
+---
+CODE FENCING FOR S NUMBER
+>Geometry is the branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogs. For more information follow:
+<https://en.wikipedia.org/wiki/Geometry>
+
+>Elementary operations can refer to operations in elementary arithmetic as addition, subtraction, multiplication, division. Elementary row operations or elementary column operations especially in Matrix. For more information follow:
+<https://en.wikipedia.org/wiki/Elementary_operations>
+
+>In geometry, a polygon is a plane figure that is described by a finite number of straight line segments connected to form a closed polygonal chain. The bounded plane region, the bounding circuit, or the two together, may be called a polygon. For more information follow:
+<https://en.wikipedia.org/wiki/Polygon>
