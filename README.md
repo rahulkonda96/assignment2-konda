@@ -52,12 +52,16 @@ CODE FENCING FOR S NUMBER
 
 ### Geometry
 
-   ```
    *Elementary operations
 
-        Basic Geometry https://cp-algorithms.com/geometry/basic-geometry.html
-
-        *Finding the equation of a line for a segment<https://cp-algorithms.com/geometry/segment-to-line.html>
+    ```
+        Basic Geometry 
+        https://cp-algorithms.com/geometry/basic-geometry.html
+    ```
+    ```
+        Finding the equation of a line for a segment
+        <https://cp-algorithms.com/geometry/segment-to-line.html>
+    ```
         *Intersection Point of Lines<https://cp-algorithms.com/geometry/lines-intersection.html>
         *Check if two segments intersect<https://cp-algorithms.com/geometry/check-segments-intersection.html>
         *Intersection of Segments<https://cp-algorithms.com/geometry/segments-intersection.html>
@@ -65,7 +69,7 @@ CODE FENCING FOR S NUMBER
         *Circle-Circle Intersection<https://cp-algorithms.com/geometry/circle-circle-intersection.html>
         *Common tangents to two circles<https://cp-algorithms.com/geometry/tangents-to-two-circles.html>
         *Length of the union of segments<https://cp-algorithms.com/geometry/length-of-segments-union.html>
-  ```
+  
   ```
    *Polygons
         *Oriented area of a triangle 
