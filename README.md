@@ -32,3 +32,9 @@ The below table contains the items which I'd love the most eating them and recom
 | Biryani | Godavari Kansas | $13 |
 | Butter Naan with Panneer | Korma Sutra | $18 |
 | Pista Kulfi | Taj Palace | $4.50 |
+
+---
+## QUOTES WHICH MAKE YOU THINK MOST
+>“Anyone can deal with victory. Only the mighty can bear defeat.” -- *Adolf Hitler*
+
+>"Someone's sitting in the shade today because someone planted a tree a long time ago." -- *Warren Buffett*
