@@ -55,6 +55,7 @@ CODE FENCING FOR S NUMBER
    * Elementary operations
     
         * Basic Geometry 
+
     ```
     ftype dot(point2d a, point2d b) {
     return a.x * b.x + a.y * b.y;
@@ -62,6 +63,7 @@ CODE FENCING FOR S NUMBER
     ftype dot(point3d a, point3d b) {
     return a.x * b.x + a.y * b.y + a.z * b.z;
     }
+    
     ```
     <https://cp-algorithms.com/geometry/basic-geometry.html>
     
