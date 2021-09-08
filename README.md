@@ -92,11 +92,28 @@ CODE FENCING FOR S NUMBER
         <https://cp-algorithms.com/geometry/length-of-segments-union.html>
     ```
    * Polygons
-        *Oriented area of a triangle 
+        * Oriented area of a triangle
+    ``` 
         <https://cp-algorithms.com/geometry/oriented-triangle-area.html>
-        *Area of simple polygon<https://cp-algorithms.com/geometry/area-of-simple-polygon.html>
-        *Check if points belong to the convex polygon in O(log N)<https://cp-algorithms.com/geometry/point-in-convex-polygon.html>
-        *Minkowski sum of convex polygons<https://cp-algorithms.com/geometry/minkowski.html>
-        *Pick's Theorem - area of lattice polygons<https://cp-algorithms.com/geometry/picks-theorem.html>
-        *Lattice points of non-lattice polygon<https://cp-algorithms.com/geometry/lattice-points.html>
-  ```
+    ```
+        * Area of simple polygon
+    ```
+        <https://cp-algorithms.com/geometry/area-of-simple-polygon.html>
+    ```
+        * Check if points belong to the convex polygon in O(log N)
+    ```
+        <https://cp-algorithms.com/geometry/point-in-convex-polygon.html>
+    ```
+        * Minkowski sum of convex polygons
+    ```
+        <https://cp-algorithms.com/geometry/minkowski.html>
+    ```
+        * Pick's Theorem - area of lattice polygons
+    ```
+        <https://cp-algorithms.com/geometry/picks-theorem.html>
+    ```
+        * Lattice points of non-lattice polygon
+    ```
+        <https://cp-algorithms.com/geometry/lattice-points.html>
+    ```
+  
