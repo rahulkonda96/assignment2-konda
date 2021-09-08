@@ -92,11 +92,12 @@ CODE FENCING FOR S NUMBER
         <https://cp-algorithms.com/geometry/length-of-segments-union.html>
     ```
    * Polygons
-   
+
         * Oriented area of a triangle
     ``` 
         <https://cp-algorithms.com/geometry/oriented-triangle-area.html>
     ```
+    
         * Area of simple polygon
     ```
         <https://cp-algorithms.com/geometry/area-of-simple-polygon.html>
